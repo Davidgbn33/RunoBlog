@@ -1,18 +1,19 @@
 @import "module/reset.css";
 @import "module/variables.css";
+@import "module/header.css"; 
 
-body {
-    box-sizing: border-box;
-}
 
-.container {
-    max-width: 1200px;
+ .container {
+    max-width: 1200px; 
     margin: 0 auto;
     padding: 0 auto;
 }
 
 .row {
     display: flex;
-flex-wrap: wrap;
-margin: 0 -10px;
-}
+    flex-wrap: wrap;
+    /* margin: 0 -10px; */
+}  
+ body{
+    box-sizing: border-box;
+} 
