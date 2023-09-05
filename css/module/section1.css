@@ -1,0 +1,24 @@
+.section1-part1{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+.section1-part1 ul{
+    display: flex;
+}
+
+.section1-part1 h2{
+    margin-bottom: 1rem;
+    margin-top: 5rem;
+}
+
+.section1-part1 ul li{
+    margin: 0 1.5rem;
+}
+
+.card-date,
+.card-title,
+.card-des{
+    margin: .5rem 0;
+}

@@ -1,6 +1,8 @@
 @import "module/reset.css";
 @import "module/variables.css";
+@import "module/card.css";
 @import "module/header.css"; 
+@import "module/section1.css";
 
 
  .container {
@@ -13,7 +15,8 @@
     display: flex;
     flex-wrap: wrap;
     /* margin: 0 -10px; */
-}  
- body{
+} 
+ 
+body{
     box-sizing: border-box;
 } 

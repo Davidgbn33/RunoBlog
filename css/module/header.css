@@ -1,24 +1,25 @@
 nav {
-    position: sticky;
+    position: fixed;
     top: 0;
     z-index: 20;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.20);
 }
 
-.container-header,
-.container-header-ul {
-    display: flex;
 
-}
 
 .container-header {
+    display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0 4rem;
     height: 90px;
     /* background: black;
     opacity: 0.5; */
+}
 
-
+.container-header-ul {
+    display: flex;
 }
 
 .container-header h1 {
@@ -36,8 +37,7 @@ nav {
     background-image: url(/Img/slide1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    position: absolute;
-    top: 0;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
