@@ -40,3 +40,15 @@ width: 75%;
 
 /* color */
 
+.white{
+    color: white;
+}
+.darkgray{
+    color: #495057
+}
+.lightgray{
+    color: #E5E5E5;
+}
+.bg-color{
+    color:  #F8F9FA;
+}
