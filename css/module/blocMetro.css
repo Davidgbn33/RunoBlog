@@ -81,3 +81,15 @@
     padding: 0.5rem;
     text-align: center;
 }
+
+.sectionMetro{
+    display: flex;
+    flex-direction: column;
+    margin: 5rem 4rem 2rem 4rem;
+}
+.sectionMetro-img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 4rem 5rem 4rem;
+}

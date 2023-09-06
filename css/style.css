@@ -6,6 +6,8 @@
 @import "module/post.css";
 @import "module/blocMetro.css";
 @import "module/footer.css";
+@import "module/animation.css";
+
 
 
  .container {
@@ -17,8 +19,8 @@
 .row {
     display: flex;
     flex-wrap: wrap;
-    /* margin: 0 -10px; */
-    justify-content: center;
+    justify-content: space-evenly;
+    /* margin: 0 1rem; */
 } 
  
 body{
