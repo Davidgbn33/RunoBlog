@@ -1,6 +1,7 @@
 .section1{
     display: flex;
     justify-content: space-between;
+
 }
 
 
@@ -22,6 +23,7 @@
 .section1-part1 ul li{
     margin: 0 1.5rem 0 0;
 }
+
 .section1-part2{
     display: flex;
     flex-wrap: wrap;
