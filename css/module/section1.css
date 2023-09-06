@@ -23,6 +23,9 @@
     margin: 0 1.5rem 0 0;
 }
 .section1-part2{
-    margin:0 1rem 5rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin:0 4rem 5rem 4rem;
 }
 

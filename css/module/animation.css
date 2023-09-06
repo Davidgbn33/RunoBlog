@@ -7,13 +7,6 @@
     display: flex;
 }
 
-/* 
-   5% par transition, nombre choisi arbitrairement.
-
-   reste divisé par nb de pauses
-   90(%) / 3 = 20(%) par pause
-*/
-
 @keyframes slider-1 {
 
     0%,
