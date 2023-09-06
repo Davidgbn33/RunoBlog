@@ -1,32 +1,10 @@
-.card-img1{
-    background-image: url(/img/BlogImage1.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    max-width: 100%;
-    height:100%;
-    border-radius: 10px;
+
+.card{
+    height: 450px;
 }
-.card-img2{
-    background-image: url(/img/BlogImage2.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    max-width: 100%;
-    height:100%;
-    border-radius: 10px;
-}
-.card-img3{
-    background-image: url(/img/BlogImage3.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    max-width: 100%;
-    height:100%;
-    border-radius: 10px;
-}
-.card-img4{
-    background-image: url(/img/BlogImage4.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    max-width: 100%;
-    height:100%;
-    border-radius: 10px;
+
+.card-date,
+.card-title,
+.card-des{
+    margin: .5rem 0;
 }
